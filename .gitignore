@@ -1,2 +1,5 @@
 workspace/.metadata/
 workspace/RemoteSystemsTempFiles/
+workspace/Spring_Dependency/.classpath
+workspace/Spring_Dependency/target/
+workspace/Spring_Dependency/.settings/
